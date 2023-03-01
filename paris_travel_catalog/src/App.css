@@ -7,3 +7,18 @@ header {
   background-color: maroon;
   color: white;
 }
+
+ul {
+  list-style-type: none;
+  background-color: rgb(189, 0, 0);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  display: block;
+  float: left;
+  text-align: center;
+  padding: 15px 20px;
+}
