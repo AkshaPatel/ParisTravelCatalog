@@ -14,7 +14,7 @@ function Cuisine() {
 
             <div className = "sandwich">
                 <h1> Croque Monsieur </h1>
-                <img src = {} alt = "Croque Monsieur" />
+                <img src={croqueMonsieur} alt = "Croque Monsieur" />
                 <p>
                     The Croque Monsieur is a sandwich made with ham, cheese, butter, and a special sauce called Bechamel. Its origns trace back to 1910, being found at a bistro in Paris. 
                 The cheese is put on the outside and inside of the sandwich and is baked until the cheese has melted into each other. Either Gruyère, Emmental or Comte would be the types of cheese that would be put into the Croque Monsieur. 
@@ -26,7 +26,7 @@ function Cuisine() {
 
             <div className = "beef-stew">
                 <h1> Boeuf Bourguignon </h1>
-                <img src = {} alt = "Boeuf Bourguignon" />
+                <img src = {beefBourguigon} alt = "Boeuf Bourguignon" />
                 <p>
                     The Boeuf Bourguignon is French beef stew, that consists of Burgundy red wine, beef stock, onions, mushrooms, bouquet garni, and lardons.
                 The origins of this dish was first doucmented in 1867 and was considered "low-class", due to being made with leftover meat. It became popular during the 20th century as a Burgundian dish.
@@ -40,7 +40,7 @@ function Cuisine() {
 
             <div className = "dessert">
                 <h1> Créme Brulée </h1>
-                <img src ={} alt "Créme Brulée" />
+                <img src ={cremeBrulee} alt = "Créme Brulée" />
                 <p>
                     The Créme Brulée is a dessert that contains vanilla custard that is topped with caramelized sugar. 
                 The origins of this dessert can been seen within French cookbooks in the late 17th century, before being popularized in the 1980's.
