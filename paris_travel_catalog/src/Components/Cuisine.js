@@ -37,7 +37,8 @@ function Cuisine() {
                 <p>
                     The Créme Brulée is a dessert that contains vanilla custard that is topped with caramelized sugar. 
                 The origins of this dessert can been seen within French cookbooks in the late 17th century, before being popularized in the 1980's.
-                The top of the dessert is left warm from the caramelization, while the center of the desert is kept ice cold. This dessert is sometimes topped off with various fruits. 
+                The top of the dessert is left warm from the caramelization, while the center of the dessert is kept ice cold to give its delectable flavor. 
+                Some places that serve Créme Brulée will include fruits as garnishing, to give it an extra kick of flavor.  
                 This dessert can be found at almost all places that serve dessert within Paris. 
                 </p>
             </div>
