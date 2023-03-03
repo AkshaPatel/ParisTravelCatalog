@@ -1,3 +1,7 @@
+import cremeBrulee from './images/creme-brulee.jpg'
+import beefBourguigon from './images/beef-bourguignon.jpg'
+import croqueMonsieur from './images/croque-monsieur.jpg'
+
 
 function Cuisine() {
     return (
@@ -9,6 +13,7 @@ function Cuisine() {
             </div>
 
             <div className = "sandwich">
+                <h1> Croque Monsieur </h1>
                 <img src = {} alt = "Croque Monsieur" />
                 <p>
                     The Croque Monsieur is a sandwich made with ham, cheese, butter, and a special sauce called Bechamel. Its origns trace back to 1910, being found at a bistro in Paris. 
@@ -20,6 +25,7 @@ function Cuisine() {
             </div>
 
             <div className = "beef-stew">
+                <h1> Boeuf Bourguignon </h1>
                 <img src = {} alt = "Boeuf Bourguignon" />
                 <p>
                     The Boeuf Bourguignon is French beef stew, that consists of Burgundy red wine, beef stock, onions, mushrooms, bouquet garni, and lardons.
@@ -33,6 +39,7 @@ function Cuisine() {
             </div>
 
             <div className = "dessert">
+                <h1> Créme Brulée </h1>
                 <img src ={} alt "Créme Brulée" />
                 <p>
                     The Créme Brulée is a dessert that contains vanilla custard that is topped with caramelized sugar. 
@@ -46,4 +53,5 @@ function Cuisine() {
     );
 }
 
-export default Cuisine;
+export default Cuisine
+//Need to create image file and add images for all the components.
