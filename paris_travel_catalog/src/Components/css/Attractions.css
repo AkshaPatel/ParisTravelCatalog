@@ -1,0 +1,111 @@
+.container {
+    background-color: #202124;
+    color: white;
+    overflow-x: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display:ital,wght@0,500;1,400&display=swap');
+.header{
+    padding: 10.8%;
+    padding-left: 6%;
+    width: 100%;
+    background-color: #123C69;
+}
+
+.header h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 4.3em;
+}
+.header h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2em;
+    padding-left: 5%;
+}
+/* .flag1,.flag2,.flag3{
+    display: inline-block;
+    width:7%;
+    height: 30px;
+    vertical-align: top;
+    padding: 3%;
+    margin-top: 2%;
+}
+.flag1{ background-color: blue;}
+.flag2{ background-color: white;}
+.flag3{ background-color: red;} */
+
+img {
+    border-radius: 5px;
+    border: 2px solid #123C69;
+    max-width: 56%;
+    object-fit: cover;
+    margin: 20px 0px;
+}
+
+p {
+    font-size: 1.1rem;
+    border-radius: 5px;
+    border: 2px solid #553D67;
+    max-width: 30%;
+    min-width: 285px;
+    padding: 4.5% 2.5%;
+    letter-spacing: 0.05em;
+    line-height: 1.45em;
+    font-family: 'Lato', sans-serif;
+    background-color: #123C69;
+}
+/* .eiffel{
+    background-color: #99738E;
+    background-color: #AC3B61;
+}
+.louvre{
+    background-color: #AC3B61;
+}
+*/
+
+.eiffel, .louvre, .triomphe {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 9% 0%;
+    background-color: #AC3B61;
+}
+.triomphe{
+    padding-bottom: 19%;
+}
+.eiffel h2, .louvre h2, .triomphe h2{
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 0.03em;
+    font-size: 1.7em;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer1, .footer2, .footer3{
+    opacity: 0.94;
+    padding: 6%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 0.03em;
+}
+.footer1{
+    background-color: rgb(3, 3, 121);
+}
+.ital{
+    font-style: italic;
+    font-weight: 400;
+}
+.footer2{
+    background-color: white;
+    color: black;
+}
+.footer3{
+    background-color: red;
+    font-style: italic;
+}
