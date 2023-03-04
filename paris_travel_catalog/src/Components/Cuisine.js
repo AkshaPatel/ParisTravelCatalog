@@ -1,3 +1,5 @@
+import './css/Cuisine.css';
+
 import cremeBrulee from './images/creme-brulee.jpg'
 import beefBourguigon from './images/beef-bourguignon.jpg'
 import croqueMonsieur from './images/croque-monsieur.jpg'
