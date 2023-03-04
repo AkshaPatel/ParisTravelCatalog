@@ -1,0 +1,28 @@
+cuisine-header{
+    font-family: cursive;
+    align-items: center;
+}
+
+img {
+    display: flexbox;
+    align-items: center;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+}
+
+.sandwich, .beef-stew, .dessert{
+    display: flexbox;
+    align-items: center;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+h1{
+    color: rgb(189,0,0);
+}
+
+p{
+    font-size: 1rem;
+    border-radius: 5px;
+}
