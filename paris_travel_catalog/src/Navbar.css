@@ -2,7 +2,7 @@ ul {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    background-color: rgb(189, 0, 0);
+    background-color: #95BDFF;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -16,5 +16,5 @@ ul {
   }
   
   li:hover {
-    background-color: maroon;
+    background-color: #7286D3;
   }

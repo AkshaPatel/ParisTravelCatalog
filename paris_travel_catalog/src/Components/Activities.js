@@ -1,9 +1,17 @@
-
+import "./activities.css"
 function Activities() {
     return (
         <div>
-        <h1> Activities </h1>   
-        </div>    
+            <div className="firstsection">
+                <p>Hello</p> 
+            </div>    
+            <div className="secondsection">
+                <p>Hello</p>
+            </div>
+            <div className="thirdsection">
+                <p>Hello</p>
+            </div>
+        </div>
     );
 }
 

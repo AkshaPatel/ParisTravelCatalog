@@ -1,0 +1,22 @@
+.firstsection {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #ECF2FF;
+}
+.secondsection {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #E3DFFD;
+}
+.thirdsection {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #E5D1FA;
+
+}
