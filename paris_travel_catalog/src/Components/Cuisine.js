@@ -13,9 +13,9 @@ function Cuisine() {
                 <h1> Cuisine </h1>
                 <h4> Experience the these various cuisines when visiting Paris, France!</h4>
             </div>
-
-            <div className = "sandwich">
                 <h1> Croque Monsieur </h1>
+            <div className = "sandwich">
+                
                 <img src = {croqueMonsieur} alt = "Croque Monsieur" />
                 <p>
                     The Croque Monsieur is a sandwich made with ham, cheese, butter, and a special sauce called Bechamel. Its origins trace back to 1910, being found at a bistro in Paris. 
@@ -26,8 +26,9 @@ function Cuisine() {
                 </p>
             </div>
 
-            <div className = "beef-stew">
                 <h1> Boeuf Bourguignon </h1>
+            <div className = "beef-stew">
+
                 <img src = {beefBourguigon} alt = "Boeuf Bourguignon" />
                 <p>
                     The Boeuf Bourguignon is French beef stew, that consists of Burgundy red wine, beef stock, onions, mushrooms, bouquet garni, and lardons.
@@ -37,9 +38,10 @@ function Cuisine() {
                 This dish can be found across various restaurants and bistros across Paris. 
                 </p>
             </div>
-
-            <div className = "dessert">
+                
                 <h1> Créme Brulée </h1>
+            <div className = "dessert">
+                
                 <img src ={cremeBrulee} alt = "Créme Brulée" />
                 <p>
                     The Créme Brulée is a dessert that contains vanilla custard that is topped with caramelized sugar. 
