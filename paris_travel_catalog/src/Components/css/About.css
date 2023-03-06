@@ -1,0 +1,22 @@
+.capital, .city_of_love {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #123C69;
+}
+
+.capital img, .city_of_love img {
+    border-radius: 20px;
+    border: 2px solid skyblue;
+    width: 600px;
+    height: auto;
+    margin: 50px;
+}
+
+.info {
+    border-color: skyblue;
+    color: white;
+    border-width: 5px;
+    margin: 50px;
+}
