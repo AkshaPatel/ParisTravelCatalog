@@ -10,7 +10,7 @@ function Attractions() {
         <h2>Perfect places for your visit</h2>
       </div>
         <div className="eiffel">
-          <img src={eiffel_tower} alt="The Eiffel Tower" />
+          <img src={eiffel_tower} alt="The Eiffel Tower"/>
           <p>
           <h2>The Eiffel Tower</h2>
             Come and discover the Eiffel Tower: the only trip to the top of its kind in Europe, one where emotions carry you away. 

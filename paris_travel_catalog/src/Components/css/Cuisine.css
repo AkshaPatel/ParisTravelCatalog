@@ -3,7 +3,7 @@ cuisine-header{
     align-items: center;
 }
 
-img {
+.sandwich img, .beef-stew img, .dessert img{
     border-radius: 10px;
     width: 400px;
     height: 300px;
@@ -18,18 +18,18 @@ img {
     flex-wrap: wrap;
 }
 
-h1{
+.main-cuisine h1{
     color: rgb(189,0,0);
     text-align: center;
 }
 
-p{
+.main-cuisine p{
     font-size: 1rem;
     border-radius: 5px;
     color: rgb(0, 0, 0);
     
 }
 
-h4{
+.main-cuisine h4{
     text-align: center;
 }

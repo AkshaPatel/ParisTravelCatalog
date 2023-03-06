@@ -36,26 +36,7 @@
 .flag2{ background-color: white;}
 .flag3{ background-color: red;} */
 
-img {
-    border-radius: 5px;
-    border: 2px solid #123C69;
-    max-width: 56%;
-    object-fit: cover;
-    margin: 20px 0px;
-}
 
-p {
-    font-size: 1.1rem;
-    border-radius: 5px;
-    border: 2px solid #553D67;
-    max-width: 30%;
-    min-width: 285px;
-    padding: 4.5% 2.5%;
-    letter-spacing: 0.05em;
-    line-height: 1.45em;
-    font-family: 'Lato', sans-serif;
-    background-color: #123C69;
-}
 /* .eiffel{
     background-color: #99738E;
     background-color: #AC3B61;
@@ -72,6 +53,27 @@ p {
     padding: 9% 0%;
     background-color: #AC3B61;
 }
+
+.eiffel img, .louvre img, .triomphe img {
+    border-radius: 5px;
+    border: 2px solid #123C69;
+    max-width: 56%;
+    object-fit: cover;
+    margin: 20px 0px;
+}
+.eiffel p, .louvre p, .triomphe p {
+    font-size: 1.1rem;
+    border-radius: 5px;
+    border: 2px solid #553D67;
+    max-width: 30%;
+    min-width: 285px;
+    padding: 4.5% 2.5%;
+    letter-spacing: 0.05em;
+    line-height: 1.45em;
+    font-family: 'Lato', sans-serif;
+    background-color: #123C69;
+}
+
 .triomphe{
     padding-bottom: 19%;
 }

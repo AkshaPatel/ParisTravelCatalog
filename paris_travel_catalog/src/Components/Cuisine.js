@@ -7,7 +7,7 @@ import croqueMonsieur from './images/croque-monsieur.jpg'
 
 function Cuisine() {
     return (
-        <div className= "main">
+        <div className= "main-cuisine">
 
             <div className= "cuisine-header"> 
                 <h1> Cuisine </h1>
