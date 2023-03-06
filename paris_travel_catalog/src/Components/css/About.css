@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Libre+Baskerville&family=Space+Mono&display=swap');
 .capital, .city_of_love {
     display: flex;
     justify-content: space-evenly;
@@ -20,7 +20,7 @@
 }
 
 .city_of_love p, .capital p {
-    font-family: 'Gloock', serif;
+    font-family: 'Libre Baskerville', serif;
     border: 2px solid ;
     border-radius: 20px;
     padding: 20px;
