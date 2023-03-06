@@ -1,4 +1,4 @@
-import "./activities.css"
+import "./css/Activities.css"
 import disneyland from './images/disney.webp'
 import cruise from './images/cruise.jpeg'
 import baguette from './images/baguette.jpeg'

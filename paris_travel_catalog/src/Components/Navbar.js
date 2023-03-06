@@ -1,10 +1,10 @@
-import './Navbar.css';
+import './css/Navbar.css';
 
-import About from './Components/About';
-import Activities from './Components/Activities';
-import Attractions from './Components/Attractions';
-import Cuisine from './Components/Cuisine';
-import InvalidURL from './Components/InvalidURL';
+import About from './About';
+import Activities from './Activities';
+import Attractions from './Attractions';
+import Cuisine from './Cuisine';
+import InvalidURL from './InvalidURL';
 
 import { BrowserRouter, Routes, Route, Outlet, Link } from 'react-router-dom';
 
