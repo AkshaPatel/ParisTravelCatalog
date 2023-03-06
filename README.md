@@ -1,2 +1,6 @@
 # ParisTravelCatalog
-## Contributors: Manav Patel, Farabi Choudhury(Farabi-C), Aksha Patel(AkshaPatel), Stanley Fung(scfung)
+## Contributors: Manav Patel(manav809), Farabi Choudhury(Farabi-C), Aksha Patel(AkshaPatel), Stanley Fung(scfung)
+
+```bash
+npm start
+```
