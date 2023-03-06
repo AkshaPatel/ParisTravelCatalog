@@ -4,3 +4,5 @@
 ```bash
 npm start
 ```
+
+### This project is a travel catalog that consists of Attractions, Activities, About, and Cuisine that is found in Paris, France.
